@@ -3378,6 +3378,10 @@ PrefabInstance:
       propertyPath: _waves.Array.data[7].Armies.Array.data[4].SpawnInterval
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7490504739367027932, guid: 18a635dc8e4b0994799b00c4b1e91fae, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7490504739421388356, guid: 18a635dc8e4b0994799b00c4b1e91fae, type: 3}
       propertyPath: m_RootOrder
       value: 0
